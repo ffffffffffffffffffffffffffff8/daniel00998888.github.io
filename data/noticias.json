@@ -1,15 +1,5 @@
 [
   {
-    "id": 1,
-    "titulo_original": "Editorial: Johnson: confusión de funciones",
-    "titulo": "La confusión de funciones de Johnson: ¿cómo un hombre puede ser dos personas a la vez?",
-    "resumen": "En un giro inesperado, el gobernador de Nuevo México, Michelle Lujan Grisham, nombró al ex alcalde de Nueva York, Bill de Blasio, como embajador de su estado en el extranjero. Sin embargo, lo que inicialmente parecía un nombramiento rutinario se convirtió en una sorpresa cuando se reveló que el nuevo embajador era en realidad el ex presidente de los Estados Unidos, Joe Biden, disfrazado de Bill de Blasio. Según fuentes cercanas a la administración, la confusión se debió a un error en la comunicación y a la falta de coordinación entre los equipos de la gobernadora y el presidente. La noticia ha causado un gran revuelo en la comunidad política de Nuevo México y ha generado preguntas sobre la seguridad nacional y la capacidad de la administración para gestionar la información.",
-    "contenido": "La confusión de funciones de Johnson es un tema que ha estado en la mente de muchos desde hace algún tiempo. Sin embargo, lo que parecía ser un problema menor se convirtió en un escándalo cuando se reveló que el ex presidente de los Estados Unidos, Joe Biden, estaba disfrazado de Bill de Blasio, el ex alcalde de Nueva York, y había sido nombrado embajador de Nuevo México en el extranjero.\n\n\n\nLa noticia surgió cuando el gobernador de Nuevo México, Michelle Lujan Grisham, anunció el nombramiento de Bill de Blasio como embajador de su estado en el extranjero. Sin embargo, lo que inicialmente parecía un nombramiento rutinario se convirtió en una sorpresa cuando se reveló que el nuevo embajador era en realidad Joe Biden disfrazado.\n\n\n\nSegún fuentes cercanas a la administración, la confusión se debió a un error en la comunicación y a la falta de coordinación entre los equipos de la gobernadora y el presidente. \"La comunicación entre los equipos de la gobernadora y el presidente es fundamental para evitar errores como este\", dijo un funcionario anónimo. \"Sin embargo, en este caso, parece que hubo un malentendido que se prolongó durante mucho tiempo\".\n\n\n\nLa noticia ha causado un gran revuelo en la comunidad política de Nuevo México y ha generado preguntas sobre la seguridad nacional y la capacidad de la administración para gestionar la información. \"La seguridad nacional es un tema grave y no podemos permitir que la falta de coordinación entre los equipos de la gobernadora y el presidente ponga en riesgo la seguridad del país\", dijo un senador republicano de Nuevo México.\n\n\n\nA pesar de la confusión, el presidente Biden ha afirmado que todo está bajo control y que el nombramiento de Bill de Blasio como embajador es válido. \"La situación es bajo control y no hay nada que temer\", dijo el presidente en una conferencia de prensa. \"El nombramiento de Bill de Blasio como embajador es válido y no hay nada que cambiar en este sentido\".\n\n\n\nSin embargo, la pregunta sigue siendo: ¿cómo un hombre puede ser dos personas a la vez? La respuesta es que la confusión de funciones es un tema complejo que requiere una mayor atención y coordinación entre los equipos de la gobernadora y el presidente. La comunidad política de Nuevo México y el país en general esperan que se tomen medidas para evitar que este tipo de errores se repitan en el futuro.",
-    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
-    "fecha": "2026-06-04",
-    "url_origen": "https://www.jornada.com.mx/2026/06/03/opinion/002a1edi?partner=rss"
-  },
-  {
     "id": 2,
     "titulo_original": "Exhorta la OPS a fortalecer vigilancia del sarampión en sedes mundialistas   ",
     "titulo": "Sarampión en sedes mundialistas: OPS exige mayor vigilancia para evitar brotes",
@@ -968,5 +958,45 @@
     "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
     "fecha": "2026-06-06",
     "url_origen": "https://www.jornada.com.mx/2026/06/06/estados/031n3est?partner=rss"
+  },
+  {
+    "id": 98,
+    "titulo_original": "La Copa del Mundo se exhibirá en la Utopía Mixiuhca   ",
+    "titulo": "La Copa del Mundo se exhibirá en la Utopía Mixiuhca",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F06%2F06%2Ffotos%2F032n2cap-1.jpg",
+    "fecha": "2026-06-06",
+    "url_origen": "https://www.jornada.com.mx/2026/06/06/capital/032n2cap?partner=rss"
+  },
+  {
+    "id": 99,
+    "titulo_original": "Notifica EU captura de ex militar ligado a caso Ayotzinapa   ",
+    "titulo": "Notifica EU captura de ex militar ligado a caso Ayotzinapa",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-06-06",
+    "url_origen": "https://www.jornada.com.mx/2026/06/06/politica/012n2pol?partner=rss"
+  },
+  {
+    "id": 100,
+    "titulo_original": "Se oponen a decisión de Bukele de reactivar la minería   ",
+    "titulo": "Se oponen a decisión de Bukele de reactivar la minería",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F06%2F06%2Ffotos%2F025n3mun-1.jpg",
+    "fecha": "2026-06-06",
+    "url_origen": "https://www.jornada.com.mx/2026/06/06/mundo/025n3mun?partner=rss"
+  },
+  {
+    "id": 101,
+    "titulo_original": "Tel Aviv llama a los israelíes a mudarse a Cisjordania para impedir la constitución de un Estado palestino   ",
+    "titulo": "Tel Aviv llama a los israelíes a mudarse a Cisjordania para impedir la constitución de un Estado palestino",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2F2026%2F06%2F06%2Ffotos%2F027n2mun-1.jpg",
+    "fecha": "2026-06-06",
+    "url_origen": "https://www.jornada.com.mx/2026/06/06/mundo/027n2mun?partner=rss"
   }
 ]
