@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "id": 1,
+    "titulo_original": "Editorial:     Cesar el asedio a Cuba       ",
+    "titulo": "Editorial: Cesar el asedio a Cuba",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-06-09",
+    "url_origen": "https://www.jornada.com.mx/2026/06/09/opinion/002a1edi?partner=rss"
+  },
+  {
+    "id": 2,
+    "titulo_original": "Federer volverá al Abierto de EU; jugará partido de exhibición    ",
+    "titulo": "Federer volverá al Abierto de EU; jugará partido de exhibición",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-06-09",
+    "url_origen": "https://www.jornada.com.mx/2026/06/09/deportes/a12n3dep?partner=rss"
+  },
+  {
+    "id": 3,
+    "titulo_original": "Miguel Pineda: Negocios y empresas   ",
+    "titulo": "Miguel Pineda: Negocios y empresas",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-06-09",
+    "url_origen": "https://www.jornada.com.mx/2026/06/09/opinion/016o1eco?partner=rss"
+  },
+  {
+    "id": 4,
+    "titulo_original": "Ratifica la Presidenta plan de la ultraderecha contra México   ",
+    "titulo": "Ratifica la Presidenta plan de la ultraderecha contra México",
+    "resumen": "Noticia importante de México.",
+    "contenido": "Revisa el enlace original para más detalles.",
+    "imagen": "https://wsrv.nl/?url=https%3A%2F%2Fwww.jornada.com.mx%2Fimagemeta%2F1200x630BN.jpg",
+    "fecha": "2026-06-09",
+    "url_origen": "https://www.jornada.com.mx/2026/06/09/politica/005n2pol?partner=rss"
+  }
+]
